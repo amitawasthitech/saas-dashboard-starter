@@ -1,6 +1,6 @@
 // app/dashboard/page.jsx
 'use client'
-import StatCard from '../../components/ui/card'
+import StatCard from '../../components/ui/Card'
 import ProjectionsVsActuals from '../../components/charts/ProjectionsVsActuals'
 import RevenueChart from '../../components/charts/RevenueChart'
 import TotalSales from '../../components/charts/TotalSales'
